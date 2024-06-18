@@ -1,0 +1,66 @@
+{
+  "save": {
+    "version": 1,
+    "RuntimeFunctions": {},
+    "GnlTools": {
+      "7127004": {
+        "name": "Terrain Generator",
+        "identifier": 7127004,
+        "instances": {
+          "7020605": {
+            "identifier": 7020605,
+            "name": "Create Ground",
+            "visible": true,
+            "frozen": false,
+            "index": 0,
+            "properties": {
+              "36128bbedfb84ffbacfd690c00f29768": {
+                "value": {
+                  "Float": 1.5
+                }
+              },
+              "ece0c27948824c15b4ec0c99ce08d5a1": {
+                "value": {
+                  "AssetContainer": [
+                    "/Game/Polygonflow/PolyHaven/Materials/brown_mud_02/1k/brown_mud_02_MI_PF.brown_mud_02_MI_PF"
+                  ]
+                }
+              },
+              "a6c4c803a76547daa990c0cecc639cba": {},
+              "fefdd4afb0ea4af5abc4b5e396272c9f": {
+                "value": {
+                  "Float": 0.2
+                }
+              },
+              "2950d018997e4047a2a7a62f9d75b873": {},
+              "ae949a254ac847b0b57339f1c6de860f": {},
+              "e09aaea7c2284e98bd4d29cb55e82a8b": {
+                "value": {
+                  "Float": 0.68
+                }
+              },
+              "c0451ebb2e784b369bd132d8cab43cac": {},
+              "5b80bbcf5b9e46798013c157eab7f477": {
+                "value": {
+                  "Float": 0.94
+                }
+              },
+              "6b025d76fcbe412a9ea19151afce0800": {
+                "value": {
+                  "Integer": 364
+                }
+              }
+            },
+            "result": [
+              7437598
+            ]
+          }
+        },
+        "sourceID": 1637775
+      }
+    },
+    "ObjectTags": {},
+    "time": "2024-05-06 15:25:40"
+  },
+  "autosave": {}
+}
